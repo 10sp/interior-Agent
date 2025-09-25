@@ -1,6 +1,6 @@
 // Telegram functions
 const TELEGRAM_BOT_TOKEN = "7918152804:AAEfqKOSPdTW26F1OpWBhn3onVP3pk-6Jgs";
-const TELEGRAM_CHAT_ID = "-4856358827";
+const TELEGRAM_CHAT_ID = "-4801921177";
 
 function escapeMarkdown(text) {
   if (!text) return "N/A";
